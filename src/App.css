@@ -33,6 +33,7 @@ header.dark{
 main.dark{
   background-color: #121213;
   color: white;
+  height: 100vh;
 }
 div.dark{
   background-color: #121213;
@@ -63,4 +64,9 @@ div{
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+
+img {
+  height: 41.5%;
+  width: 100%;
 }
